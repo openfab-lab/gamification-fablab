@@ -14,7 +14,7 @@ Once again, as (almost) everything in GitHub, it's easy-peasy:
 4. Write a short description if you want.  
 5. We advice you to select "Initialize this repository with a README." (can still do it later).  
 
-Big success!
+**Big success!**
 
 Next step to become an SuperUser: [Create your first markdown document]()
 
