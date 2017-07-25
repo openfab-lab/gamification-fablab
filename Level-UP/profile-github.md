@@ -10,7 +10,7 @@ OpenFab is an opensource project so everything we do is public. To know more, cl
 5. Click on "View profile and more" (small pic on the top right), then click on "Your profile", finally click on "Edit profile".
 6. Now, you can fill in the different boxes and add your information (name, bio, pic, mail, ...)
 
-Well played! You just signed up to GitHub and create your profile, you are part of the game now!
+**Well played!** You just signed up to GitHub and create your profile, you are part of the game now!
 
 Next step to become a SuperUser: [Create your own repository](https://github.com/Ginsburg/gamification-fablab/blob/patch-1/Level-UP/create-repo.md)
 
