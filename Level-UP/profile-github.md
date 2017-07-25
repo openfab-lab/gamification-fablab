@@ -12,7 +12,7 @@ OpenFab is an opensource project so everything we do is public. To know more, cl
 
 Well played! You just signed up to GitHub and create your profile, you are part of the game now!
 
-Next step to become an SuperUser: [Create your own repository]()
+Next step to become an SuperUser: [Create your own repository](https://github.com/Ginsburg/gamification-fablab/blob/patch-1/Level-UP/create-repo.md)
 
 
 ![gg](http://static.comicvine.com/uploads/original/11115/111150904/3845087-7339298958-odazt.jpg)
