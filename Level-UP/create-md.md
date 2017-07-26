@@ -13,10 +13,11 @@ In this example, we decide to create a "README" (one of the rare cases in which 
 Here's a [tutorial](https://guides.github.com/features/mastering-markdown/) to master them, but no need to go that far for your first one. One tip for you, if you want to have a line break without a paragraph, you will need to use two trailing spaces.  
 4. When it's done, you can click on "Commit new file" green button, at the bottom of what you wrote.
 
-Let's see what's the result for the example:
-As you can see, in some cases there are line break (two trailing spaces), in other cases there aren't (no two trailing spaces).  
+Let's see what's the result in the example we used:  
+As you can see, in some cases there are line break (two trailing spaces), in other cases there aren't (no two trailing spaces). We also added an image, emphasize "best project". 
 ![img](https://github.com/Ginsburg/gamification-fablab/blob/patch-1/Level-UP/markdown-example.png)
 
+  
 Have you figure out that this guide is also a markdown document? As you can see, it offers many possibilities but it's farely easy to learn how to master it!
 
 You can also do things like this:
@@ -28,3 +29,6 @@ or like that:
 |---	|---	|---	|---	|---	|
 |  1 	|  2	|   3	|   4	|   5	|
 |   a	|   b	|   c	|   d	|   e	|
+
+Next step to become an SuperUser: [Create an issue on OpenFab repository to present yourself to the community]()
+
