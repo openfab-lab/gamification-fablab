@@ -42,6 +42,6 @@ or check this [tutorial](https://guides.github.com/features/mastering-markdown/)
 
 You are almost a SuperUser, as if you were a SuperHero but not exactly. Keep going, you are close!  
 
-Next step is: 
+Next step is: [Realize your own maker passport](https://github.com/openfab-lab/passeportMaker#how-to-make-it) + [Document it on your repository](document-passport.md)
 
 ![img](https://s-media-cache-ak0.pinimg.com/736x/39/e8/e5/39e8e536972640745f1cd8118719f3a8--marvel-jokes-avengers-marvel.jpg)
