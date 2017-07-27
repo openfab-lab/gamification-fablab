@@ -16,7 +16,7 @@ In this example, we decide to create a "README" (one of the rare cases in which 
 As you can see, Markdown documents got specific syntax rules. 
 Here's a [tutorial](https://guides.github.com/features/mastering-markdown/) to master them, but no need to go that far for your first one. One tip for you, if you want to have a line break without a paragraph, you will need to use two trailing spaces.  
 
-4. When it's done, you can click on "Commit new file" green button, at the bottom of what you wrote.
+4. When it's done, you can click on the "Commit new file" green button, at the bottom of what you wrote.
 
 Let's see what's the result in the example we used:  
 As you can see, in some cases there are line break (two trailing spaces), in other cases there aren't (no two trailing spaces). We also added an image, emphasize "best project". 
