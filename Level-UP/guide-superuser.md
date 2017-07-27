@@ -17,6 +17,6 @@ Easy-peasy, just follow the guide to level Up, each step is detailed, if needed,
 - [ ] [Sign up to GitHub and fill-in your profile.](profile-github.md)  
 - [ ] [Then create your first repository.](create-repo.md)
 - [ ] [Create your first markdown document](create-md.md) (for example: README.md to present your project on your repository)
-- [ ] [Create an Issue on OpenFab repository (Openfab-lab/openfab) to present yourself to the community](create-issue.md)
-- [ ] Réalisation de son passeport maker et documentation sur son compte github voir tuto passport maker
+- [ ] [Create an Issue on OpenFab repository](create-issue.md) (Openfab-lab/openfab) to present yourself to the community]
+- [ ] [Realize your own maker passport](https://github.com/openfab-lab/passeportMaker#how-to-make-it) + [Document it on your repository]()
 - [ ] Ordre permanent bancaire 34€/mois + documentation sur son repository via ajout d'image
