@@ -8,10 +8,13 @@ yourself to OpenFab's community.
 2. Optional, but recommended, click on "Watch", the button with an eye, on the top right. This way you'll get 
 notified when something new happen in the repository. Then click on "Star", the button with a ... star :pensive: 
 (sorry, still working on having my "Humour" badge). This way the repo will be easy to find on your profile.
+
 3. Click on "Issues" and then on "New issue".
 <img width="1044" alt="issue" src="https://user-images.githubusercontent.com/7775797/28671278-6e41aee6-72dc-11e7-8507-fc26c6149e41.png">
 
-Let's make a short break (you deserve it, you might be tired after clicking on something like 2 or 3 buttons!).  
+---------
+
+***Let's make a short break*** (you deserve it, you might be tired after clicking on something like 2 or 3 buttons!).  
 > What are **Issues**?  
 Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. 
 They’re kind of like email—except they can be shared and discussed with the rest of the community, of your team. 
@@ -31,13 +34,14 @@ But feel free to adapt it to your situation. This is the first version of this t
 We are found of "Quick and dirty", "Better is better than perfect", iteration and currently, this is good enough for us.
 
 Has written, issues support Markdown's formatting syntax so if you need some help on this point, 
-go back to the previous step: "[How to create a markdown document?](https://github.com/Ginsburg/gamification-fablab/blob/patch-1/Level-UP/create-md.md)" 
+go back to the previous step: "[How to create a markdown document?](create-md.md)" 
 or check this [tutorial](https://guides.github.com/features/mastering-markdown/).
 
 5. You can click on "Submit new issue", you will discover the other functions later or by reading this 
 [tutorial](https://guides.github.com/features/issues/) if you are too curious.  
 
 You are almost a SuperUser, as if you were a SuperHero but not exactly. Keep going, you are close!  
+
 Next step is: 
 
 ![img](https://s-media-cache-ak0.pinimg.com/736x/39/e8/e5/39e8e536972640745f1cd8118719f3a8--marvel-jokes-avengers-marvel.jpg)
