@@ -4,12 +4,12 @@ You have learned a few GitHub basics features, now let's discover "Issues"! This
 yourself to OpenFab's community.
 
 1. Go to OpenFab repository : [openfab-lab/openfab](https://github.com/openfab-lab/openfab)
-![issues](https://github.com/Ginsburg/gamification-fablab/blob/patch-1/Level-UP/issues.png)
+<img width="1043" alt="issues" src="https://user-images.githubusercontent.com/7775797/28671584-88953bc2-72dd-11e7-89a5-262b3b3ff802.png">
 2. Optional, but recommended, click on "Watch", the button with an eye, on the top right. This way you'll get 
 notified when something new happen in the repository. Then click on "Star", the button with a ... star :pensive: 
 (sorry, still working on having my "Humour" badge). This way the repo will be easy to find on your profile.
 3. Click on "Issues" and then on "New issue".
-![issue](https://github.com/Ginsburg/gamification-fablab/blob/patch-1/Level-UP/issue.png)
+<img width="1044" alt="issue" src="https://user-images.githubusercontent.com/7775797/28671278-6e41aee6-72dc-11e7-8507-fc26c6149e41.png">
 
 Let's make a short break (you deserve it, you might be tired after clicking on something like 2 or 3 buttons!).  
 > What are **Issues**?  
