@@ -16,7 +16,7 @@ Easy-peasy, just follow the guide to level Up, each step is detailed, if needed,
 
 - [ ] [Sign up to GitHub and fill-in your profile.](https://github.com/Ginsburg/gamification-fablab/blob/patch-1/Level-UP/profile-github.md)  
 - [ ] [Then create your first repository.](https://github.com/Ginsburg/gamification-fablab/blob/patch-1/Level-UP/create-repo.md)
-- [ ] [Create your first markdown document](https://github.com/Ginsburg/gamification-fablab/blob/patch-1/Level-UP/create-md.md) (for example: readme.md to present your project on your repository)
+- [ ] [Create your first markdown document](https://github.com/Ginsburg/gamification-fablab/blob/patch-1/Level-UP/create-md.md) (for example: README.md to present your project on your repository)
 - [ ] [Create an Issue on OpenFab repository (Openfab-lab/openfab) to present yourself to the community](https://github.com/Ginsburg/gamification-fablab/blob/patch-1/Level-UP/create-issue.md)
 - [ ] Réalisation de son passeport maker et documentation sur son compte github voir tuto passport maker
 - [ ] Ordre permanent bancaire 34€/mois + documentation sur son repository via ajout d'image
