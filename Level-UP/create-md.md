@@ -26,7 +26,7 @@ As you can see, in some cases there are line break (two trailing spaces), in oth
 Have you figure out that this guide is also a Markdown document? As you can see, it offers many possibilities but it's farely easy to learn how to master it!
 
 You can also do things like this:
-> "All things are difficult before they become easy."  _Thomas Muller_
+> "All things are difficult before they become easy."  _Thomas Fuller_
 
 or like that:  
 
