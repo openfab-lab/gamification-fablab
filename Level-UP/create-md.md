@@ -9,7 +9,7 @@ You can easily found it by going on your profile.
 
 3. Name your file as you want + add ".md" at the end. This extension is specific to Markdown.   
 We advice you to use our [naming convention](https://github.com/openfab-lab/openfab/blob/891cee5a70a51c7256b687a5971c4697ffca2d10/xx-src/naming-convention.md): "something-like-this".  
-In this example, we decide to create a "README" (one of the rare cases in which you should use uppercase) document, it's used to describe your repository, to tell other people why your project is useful, what they can do with your project and how they can use it.  
+In this example, we decide to create a "README" (one of the rare cases in which you should use uppercase) document, it's used to describe your repository, to tell other people why your project is useful, how they can use it, how they can contribute, ... 
 
 <img width="975" alt="markdown" src="https://user-images.githubusercontent.com/7775797/28671661-d651cbc8-72dd-11e7-9c61-30ef8f651d9d.png">  
 
