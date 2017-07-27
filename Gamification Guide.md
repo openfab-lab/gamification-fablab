@@ -36,12 +36,12 @@ REWARD
 
 ## 3. The 5 Elements of the Maker + The one boring 6th
 
-1.	Fire
-2.	Water
-3.	Wood
-4.	Earth
-5.	Metal
-6.	Back Office
+1.	Fire (Red #ee0701): Bug / help needed
+2.	Water (Blue #0052cc): Electronic / Energy
+3.	Wood (Green #128A0C): Making
+4.	Earth (Yellow #fbca04): plastic / metal / ind Material
+5.	Metal (Black #111111, YEAH): Code/ software / programming
+6.	Back Office (Grey #e6e6e6): everything transversal
 
 ## 4. Level Up
 
