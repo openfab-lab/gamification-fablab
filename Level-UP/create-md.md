@@ -35,5 +35,5 @@ or like that:
 |  1 	|  2	|   3	|   4	|   5	|
 |   a	|   b	|   c	|   d	|   e	|
 
-_Next step to become an SuperUser: [Create an issue on OpenFab repository to present yourself to the community](create-issue.md)_  
+_Next step to become an SuperUser: [Create an issue on OpenFab repository to present yourself to the community](create-issue.md)._  
 _Click [here](guide-superuser.md) to come back to the guide._   
