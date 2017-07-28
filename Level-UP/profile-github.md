@@ -16,4 +16,4 @@ _Next step to become a SuperUser: [Create your own repository](create-repo.md)._
 _Click [here](guide-superuser.md) to come back to the guide._  
 
 
-![gg](http://static.comicvine.com/uploads/original/11115/111150904/3845087-7339298958-odazt.jpg)
+:+1::+1::+1:
