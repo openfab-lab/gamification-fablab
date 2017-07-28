@@ -14,7 +14,7 @@ In this example, we decide to create a "README" (one of the rare cases in which 
 <img width="975" alt="markdown" src="https://user-images.githubusercontent.com/7775797/28671661-d651cbc8-72dd-11e7-9c61-30ef8f651d9d.png">  
 
 As you can see, Markdown documents got specific syntax rules. 
-Here's a [tutorial](https://guides.github.com/features/mastering-markdown/) to master them, but no need to go that far for your first one. One tip for you, if you want to have a line break without a paragraph, you will need to use two trailing spaces.  
+Here's a [tutorial](http://www.markdowntutorial.com/), with small exercices, to master them, but no need to go that far for your first one. One tip for you, if you want to have a line break without a paragraph, you will need to use two trailing spaces. Otherwise, you'll have everything on one single straight line.  
 
 4. When it's done, you can click on the "Commit new file" green button, at the bottom of what you wrote.
 
