@@ -9,9 +9,9 @@ You can easily found it by going on your profile.
 
 3. Name your file as you want + add ".md" at the end. This extension is specific to Markdown.   
 We advice you to use our [naming convention](https://github.com/openfab-lab/openfab/blob/891cee5a70a51c7256b687a5971c4697ffca2d10/xx-src/naming-convention.md): "something-like-this".  
-In this example, we decide to create a "README" (one of the rare cases in which you should use uppercase) document, it's used to describe your repository, to tell other people why your project is useful, how they can use it, how they can contribute, ... 
+In this example, we decide to create a "README" (one of the rare cases in which you should use uppercase) document, it's used to describe your repository, to tell other people why your project is useful, how they can use it, how they can contribute, ...
 
-<img width="975" alt="markdown" src="https://user-images.githubusercontent.com/7775797/28671661-d651cbc8-72dd-11e7-9c61-30ef8f651d9d.png">  
+<img width="1081" alt="synxtax-markdown" src="https://user-images.githubusercontent.com/7775797/28716774-398e6e0a-739f-11e7-81fe-80e47e63f4e7.png">
 
 As you can see, Markdown documents got specific syntax rules. 
 Here's a [tutorial](http://www.markdowntutorial.com/), with small exercices, to master them, but no need to go that far for your first one. One tip for you, if you want to have a line break without a paragraph, you will need to use two trailing spaces. Otherwise, you'll have everything on one single straight line.  
@@ -20,8 +20,8 @@ Here's a [tutorial](http://www.markdowntutorial.com/), with small exercices, to 
 
 Let's see what's the result in the example we used:  
 As you can see, in some cases there are line break (two trailing spaces), in other cases there aren't (no two trailing spaces). We also added an image, emphasize "best project". 
-<img width="934" alt="markdown-example" src="https://user-images.githubusercontent.com/7775797/28671752-1018f2aa-72de-11e7-8e5b-fb5b385ba074.png">
 
+<img width="1014" alt="example-markown" src="https://user-images.githubusercontent.com/7775797/28716769-37daf8ee-739f-11e7-8bce-79b289155a3e.png">
   
 Have you figure out that this guide is also a Markdown document? As you can see, it offers many possibilities but it's farely easy to learn how to master it!
 
