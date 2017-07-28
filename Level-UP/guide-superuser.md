@@ -7,8 +7,8 @@ you want to get involve, to contribute actively to the community, to our project
 
 - More attractive pricing, 34€ per month for full access instead of 10€ per day and other advantages. 
 More details [here](https://github.com/openfab-lab/openfab/wiki/Tarifs-SuperUser), currently only in French.  
-- Access to OpenFab's currency, called Crrr to pay your machine utilization.  
-- Your own maker passport where you'll be able to add your skills
+- Access to OpenFab's currency, credits, called Crrr to pay your machine utilization.  
+- Your own maker passport (more details to come
 
 ## How to? 
 
@@ -18,7 +18,7 @@ Easy-peasy, just follow the guide to level Up, each step is detailed, if needed,
 - [Then create your first repository.](create-repo.md)
 - [Create your first markdown document](create-md.md) (for example: README.md to present your project on your repository)
 - [Create an Issue on OpenFab repository](create-issue.md) (Openfab-lab/openfab) to present yourself to the community]
-- [Realize your own maker passport](https://github.com/openfab-lab/passeportMaker#how-to-make-it) + [Document it on your repository]()
+- [Realize your own maker passport](https://github.com/openfab-lab/passeportMaker#how-to-make-it) + [Document it on your repository](document-passport.md)
 - Setp up a permanent standing order of 34€/month to [Syntonie ASBL](http://openfab.be/adhesion).
 
 _________
