@@ -21,9 +21,12 @@ Easy-peasy, just follow the guide to level Up, each step is detailed, if needed,
 - [Realize your own maker passport](https://github.com/openfab-lab/passeportMaker#how-to-make-it) + [Document it on your repository]()
 - Setp up a permanent standing order of 34€/month to [Syntonie ASBL](http://openfab.be/adhesion).
 
+_________
+
 ## You did everything on the list? For real?!
 
 **Congratulations, you are one of our SuperUser!** 
+
 
 Next step will be MetaUser, a new guide will follow but for the moment let's celebrate and drink beers!
 
