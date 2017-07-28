@@ -29,6 +29,6 @@ _________
 **Congratulations, you are one of our SuperUsers!** 
 
 
-Next step will be MetaUser, a new guide will follow but for the moment let's celebrate and drink beers!
+Next step will be MetaUser, a new guide will follow but for the moment let's celebrate and drink beers! :beers:  
 
 ![SuperHero](http://static2.fjcdn.com/comments/I+prefer+to+appreciate+that+these+were+my+childhoods+moral+_ec9c5943e0825bab520da5ebbc951a15.jpg)
