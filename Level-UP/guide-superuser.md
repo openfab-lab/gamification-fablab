@@ -19,7 +19,7 @@ Easy-peasy, just follow the guide to level Up, each step is detailed, if needed,
 - [Then create your first repository](create-repo.md).
 - [Create your first markdown document](create-md.md) (for example: README.md to present your project on your repository).
 - [Create an Issue on OpenFab repository](create-issue.md) (Openfab-lab/openfab) to present yourself to the community.
-- [Realize your own maker passport](https://github.com/openfab-lab/passeportMaker#how-to-make-it) + [Document it on your repository](document-passport.md).
+- [Realize your own maker passport](https://github.com/openfab-lab/passeportMaker/tree/review-tuto-passport#how-to-make-it) + [Document it on your repository](document-passport.md).
 - Setp up a permanent standing order of 34€/month to [Syntonie ASBL](http://openfab.be/adhesion).
 
 _________
