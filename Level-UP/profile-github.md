@@ -12,7 +12,8 @@ OpenFab is an opensource project so everything we do is public. To know more, cl
 
 **Well played!** You just signed up to GitHub and create your profile, you are part of the game now!
 
-Next step to become a SuperUser: [Create your own repository](create-repo.md)
+_Next step to become a SuperUser: [Create your own repository](create-repo.md)._  
+_Click [here](guide-superuser.md) to come back to the guide._  
 
 
 ![gg](http://static.comicvine.com/uploads/original/11115/111150904/3845087-7339298958-odazt.jpg)
