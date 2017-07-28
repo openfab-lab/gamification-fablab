@@ -6,7 +6,7 @@ you want to get involve, to contribute actively to the community, to our project
 ## Why becoming a SuperUser?  
 
 - More attractive pricing, 34€ per month for full access instead of 10€ per day and other advantages. 
-More details [here](https://github.com/openfab-lab/openfab/wiki/Tarifs), currently only in French.  
+More details [here](https://github.com/openfab-lab/openfab/wiki/Tarifs-SuperUser), currently only in French.  
 - Access to OpenFab's currency, called Crrr to pay your machine utilization.  
 - Your own maker passport where you'll be able to add your skills
 
