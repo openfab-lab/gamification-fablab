@@ -4,6 +4,8 @@ If you are currently reading this, you should have finished to make your own pas
 
 Once again, documenting isn't just to make you waste your time, it'll help us improve the passport, the tutorial we did, ...
 
-It's your time to shine, show your talent!
+It's your time to shine, show your talent! When it's done, the only thing remaining to be sure you are a SuperUser is to set up a permanent standing order of 34€/month to [Syntonie ASBL](http://openfab.be/adhesion). Almost done :)
+
+_Click [here](guide-superuser.md) to come back to the guide._  
 
 ![time to shine](https://cdn.meme.am/cache/instances/folder676/67024676.jpg)
