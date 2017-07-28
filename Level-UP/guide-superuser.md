@@ -19,10 +19,12 @@ Easy-peasy, just follow the guide to level Up, each step is detailed, if needed,
 - [Create your first markdown document](create-md.md) (for example: README.md to present your project on your repository)
 - [Create an Issue on OpenFab repository](create-issue.md) (Openfab-lab/openfab) to present yourself to the community]
 - [Realize your own maker passport](https://github.com/openfab-lab/passeportMaker#how-to-make-it) + [Document it on your repository]()
-- Permanent payment order of 34€/month
+- Setp up a permanent standing order of 34€/month to [Syntonie ASBL](http://openfab.be/adhesion).
 
-## You did everything on the list? Like for real?
+## You did everything on the list? For real?!
 
 **Congratulations, you are one of our SuperUser!** 
 
-Next step will be MetaUser, a new guide will follow.
+Next step will be MetaUser, a new guide will follow but for the moment let's celebrate and drink beers!
+
+![SuperHero](http://static2.fjcdn.com/comments/I+prefer+to+appreciate+that+these+were+my+childhoods+moral+_ec9c5943e0825bab520da5ebbc951a15.jpg)
