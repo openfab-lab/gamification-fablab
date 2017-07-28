@@ -16,7 +16,7 @@ Once again, as (almost) everything in GitHub, it's easy-peasy:
 
 **Big success!**
 
-_Next step to become an SuperUser: [Create your first markdown document](create-md.md)_  
+_Next step to become an SuperUser: [Create your first markdown document](create-md.md)._  
 _Click [here](guide-superuser.md) to come back to the guide._  
 
 ![Big Success](https://www.mememaker.net/static/images/memes/4514398.jpg)
