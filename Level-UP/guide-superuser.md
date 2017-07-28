@@ -25,7 +25,7 @@ _________
 
 ## You did everything on the list? For real?!
 
-**Congratulations, you are one of our SuperUser!** 
+**Congratulations, you are one of our SuperUsers!** 
 
 
 Next step will be MetaUser, a new guide will follow but for the moment let's celebrate and drink beers!
