@@ -5,10 +5,11 @@ you want to get involve, to contribute actively to the community, to our project
 
 ## Why becoming a SuperUser?  
 
+- You will receive your __Welcome Pack2__ with goodies (we don't know each one yet, working on it).  
 - More attractive pricing, 34€ per month for full access instead of 10€ per day and other advantages. 
 More details [here](https://github.com/openfab-lab/openfab/wiki/Tarifs-SuperUser), currently only in French.  
-- Access to OpenFab's currency, credits, called Crrr to pay your machine utilization.  
-- Your own maker passport (more details to come
+- Access to OpenFab's currency, credits, called __Crrr__ to pay your machine utilization. As we are nice, we will offer you 50 Crrr!
+- A kit to realize your own __maker passport__ (more details [here](https://github.com/openfab-lab/passeportMaker#a-passport-for-the-maker-network)).  
 
 ## How to? 
 
